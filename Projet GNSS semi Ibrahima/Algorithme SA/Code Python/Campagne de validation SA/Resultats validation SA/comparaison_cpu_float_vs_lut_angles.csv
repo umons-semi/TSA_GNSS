@@ -1,0 +1,2 @@
+file,prn,snr_db,doppler_true_hz,float_detected,lut_detected,same_detected,float_doppler_hz,lut_doppler_hz,doppler_delta_hz,float_phase,lut_phase,phase_delta,float_peak,lut_peak,peak_delta,float_peak_ratio,lut_peak_ratio,peak_ratio_delta,float_time_s,lut_time_s
+../signal.csv,25,,,1,1,1,-1750,-1750,0,150,150,0,2028801.917539093,2029162.1126921831,360.1951530901715,81.13386650734303,81.1493352578603,0.015468750517271701,109.29668391800078,108.14988586300751

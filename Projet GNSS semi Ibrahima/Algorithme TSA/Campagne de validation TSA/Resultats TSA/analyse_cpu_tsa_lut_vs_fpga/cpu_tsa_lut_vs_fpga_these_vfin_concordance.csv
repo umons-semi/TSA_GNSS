@@ -1,0 +1,2 @@
+gauche,droite,n_commun,accord_decision_pct,accord_prn_pct,accord_doppler_exact_pct,accord_phase_exact_pct,delta_doppler_moy_hz,delta_phase_moy_chip,delta_peak_ratio_moy,delta_peak_ratio_max,delta_margin_moy_db,correlation_peak_ratio
+CPU TSA LUT,FPGA TSA,86,100.0,100.0,100.0,100.0,0.0,0.0,490.6223376958715,729.766505736803,119.35128729405716,0.9352489276096565

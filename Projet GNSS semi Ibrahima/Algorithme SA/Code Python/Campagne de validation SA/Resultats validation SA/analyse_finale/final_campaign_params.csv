@@ -1,0 +1,17 @@
+Parametre,Valeur
+Frequence echantillonnage (fs),11.999 MHz
+Frequence intermediaire (IF),3.563 MHz
+Nombre echantillons (N),11999
+Nombre phases code (nb_phases),1023
+Plage Doppler,"[-10000, 10000] Hz"
+Pas Doppler (fd_step),500 Hz
+Nb frequences Doppler,18
+Seuil detection (ratio_min),2.5
+Marge robuste (winner_margin_db_min),3.0 dB
+Tolerance Doppler,500 Hz
+Tolerance Phase,3 chips
+PRN injecte,[25]
+PRN leurres par signal,8
+Nombre de fichiers signal,86
+Plage SNR,"[-20.0, -10.0, 0.0, 10.0, 20.0]"
+Methodes comparees,CPU LUT angles vs FPGA IP

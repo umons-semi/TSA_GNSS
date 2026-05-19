@@ -1,0 +1,19 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Thu Apr 30 12:53:19 2026
+# Process ID: 24384
+# Current directory: C:/Users/LABO01/PYNQ/Ibrahima_1/Vitis/acqDMA/acq_serial_dtflow/acquisition_serial/hls/impl/ip
+# Command line: vivado.exe -notrace -mode batch -source run_ippack.tcl
+# Log file: C:/Users/LABO01/PYNQ/Ibrahima_1/Vitis/acqDMA/acq_serial_dtflow/acquisition_serial/hls/impl/ip/vivado.log
+# Journal file: C:/Users/LABO01/PYNQ/Ibrahima_1/Vitis/acqDMA/acq_serial_dtflow/acquisition_serial/hls/impl/ip\vivado.jou
+# Running On: RESEARCHER02, OS: Windows, CPU Frequency: 2196 MHz, CPU Physical cores: 8, Host memory: 16854 MB
+#-----------------------------------------------------------
+source run_ippack.tcl -notrace
+ipx::create_core: Time (s): cpu = 00:00:14 ; elapsed = 00:00:15 . Memory (MB): peak = 467.148 ; gain = 176.520
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2023.2/data/ip'.
+INFO: [Common 17-206] Exiting Vivado at Thu Apr 30 12:53:46 2026...

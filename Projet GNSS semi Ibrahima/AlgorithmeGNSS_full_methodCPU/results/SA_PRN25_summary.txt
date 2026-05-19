@@ -1,0 +1,22 @@
+===== GNSS Acquisition Results =====
+
+Satellite      : 25
+Méthode        : SA
+Date           : 2026-04-27
+Heure          : 13:07:12
+
+Doppler (Hz)   : -1750
+Code Phase     : 150
+
+Peak           : 2028801.917539093
+Peak Ratio     : 81.13386650734303
+Variance       : None
+
+Execution Time : 114.11539609400006 s
+Memory Usage   : 188.402419090271 MB
+Energy Est.    : 105.48210000000066 J
+
+Satellite Detected : YES
+
+Correlation Matrix : None
+3D Plot            : results/SA_PRN25_plot3D.png

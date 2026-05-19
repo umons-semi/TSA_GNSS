@@ -1,0 +1,22 @@
+===== GNSS Acquisition Results =====
+
+Satellite      : 25
+Méthode        : TSA
+Date           : 2026-04-27
+Heure          : 13:01:05
+
+Doppler (Hz)   : -1750.0
+Code Phase     : 150
+
+Peak           : 2028801.917539093
+Peak Ratio     : 80.36210077341002
+Variance       : 0.21260750034028453
+
+Execution Time : 111.49245766399997 s
+Memory Usage   : 196.65449142456055 MB
+Energy Est.    : 94.16250000000034 J
+
+Satellite Detected : YES
+
+Correlation Matrix : None
+3D Plot            : results/TSA_PRN25_plot3D.png

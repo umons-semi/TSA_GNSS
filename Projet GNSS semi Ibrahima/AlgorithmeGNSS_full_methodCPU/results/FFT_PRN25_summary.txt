@@ -1,0 +1,22 @@
+===== GNSS Acquisition Results =====
+
+Satellite      : 25
+Méthode        : FFT
+Date           : 2026-04-27
+Heure          : 13:11:40
+
+Doppler (Hz)   : -1750
+Code Phase     : 151
+
+Peak           : 69618967.99182539
+Peak Ratio     : 40.45583955684105
+Variance       : None
+
+Execution Time : 2.944329522999851 s
+Memory Usage   : 2.0181140899658203 MB
+Energy Est.    : 3.1218 J
+
+Satellite Detected : YES
+
+Correlation Matrix : None
+3D Plot            : results/FFT_PRN25_plot3D.png

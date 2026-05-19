@@ -1,0 +1,44 @@
+[
+  {
+    "Method":"TSA",
+    "PRN":25,
+    "Doppler (Hz)":-1750.0,
+    "Code Phase":150,
+    "Peak":2028801.9175390929,
+    "Peak Ratio":80.3621007734,
+    "Variance":0.2126075003,
+    "Time (s)":111.4925,
+    "Memory (MB)":196.65,
+    "Energy (J)":94.163,
+    "Power (W)":0.845,
+    "Detected":1
+  },
+  {
+    "Method":"SA",
+    "PRN":25,
+    "Doppler (Hz)":-1750.0,
+    "Code Phase":150,
+    "Peak":2028801.9175390929,
+    "Peak Ratio":81.1338665073,
+    "Variance":null,
+    "Time (s)":114.1154,
+    "Memory (MB)":188.4,
+    "Energy (J)":105.482,
+    "Power (W)":0.924,
+    "Detected":1
+  },
+  {
+    "Method":"FFT",
+    "PRN":25,
+    "Doppler (Hz)":-1750.0,
+    "Code Phase":151,
+    "Peak":69618967.9918253869,
+    "Peak Ratio":40.4558395568,
+    "Variance":null,
+    "Time (s)":2.9443,
+    "Memory (MB)":2.02,
+    "Energy (J)":3.122,
+    "Power (W)":1.06,
+    "Detected":1
+  }
+]

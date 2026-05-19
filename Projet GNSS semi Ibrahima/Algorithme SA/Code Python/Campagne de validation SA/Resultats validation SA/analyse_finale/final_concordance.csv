@@ -1,0 +1,2 @@
+gauche,droite,n_commun,accord_decision_pct,accord_prn_pct,accord_doppler_exact_pct,accord_phase_exact_pct,delta_doppler_moy_hz,delta_phase_moy_chip,delta_peak_ratio_moy,delta_peak_ratio_max,delta_margin_moy_db,correlation_peak_ratio
+CPU LUT,FPGA IP,86,97.67441860465115,100.0,100.0,100.0,0.0,0.0,10.110079477088505,16.6822497214647,0.22633255813953485,0.9999530797471702

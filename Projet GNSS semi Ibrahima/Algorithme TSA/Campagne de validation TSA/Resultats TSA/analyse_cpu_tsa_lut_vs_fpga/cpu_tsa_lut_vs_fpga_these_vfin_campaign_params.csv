@@ -1,0 +1,14 @@
+Parametre,Valeur
+Frequence echantillonnage (fs),11.999 MHz
+Frequence intermediaire (IF),3.563 MHz
+Nombre echantillons (N),11999
+Nombre phases code (nb_phases),1023
+Plage Doppler,"[-10000, 10000] Hz"
+Pas Doppler (fd_step),0 Hz
+Nb frequences Doppler,18
+Seuil detection,Defini par l'algorithme
+PRN injecte,[25]
+PRN leurres par signal,8
+Nombre de fichiers signal,86
+Plage SNR,"[-20.0, -10.0, 0.0, 10.0, 20.0]"
+Methodes comparees,CPU TSA LUT vs FPGA TSA

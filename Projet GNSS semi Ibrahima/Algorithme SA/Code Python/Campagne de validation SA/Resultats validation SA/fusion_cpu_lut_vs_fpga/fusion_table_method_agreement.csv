@@ -1,0 +1,2 @@
+method_left,method_right,method_left_label,method_right_label,n_common,decision_agreement_pct,prn_agreement_pct,doppler_delta_mean_hz,phase_delta_mean_chip
+cpu_lut_angles,fpga,CPU LUT angles,FPGA,86,98.83720930232558,100.0,0.0,0.0
